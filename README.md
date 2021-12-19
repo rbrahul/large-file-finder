@@ -1,6 +1,6 @@
 ## Large file finder
 
-Sometimes it's very hard to find if some giant files are eating up your system storage. We might need to hunt those down. This simple CLI application helps you to find those giant files that are eating up your system storage.
+Sometimes it's very hard to find if some giant files are eating up your system storage. We might need to hunt those down. This simple CLI application helps you to find those giant files efficiently with filtering capabilities.
 
 ## How to install and use?
 
