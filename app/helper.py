@@ -2,7 +2,7 @@ from math import ceil, pow
 from os import linesep
 import re
 
-from validator import isFileSize
+from app.validator import isFileSize
 
 
 

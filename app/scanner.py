@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from validator import  haveFileConditionsMet
+from app.validator import  haveFileConditionsMet
 
 
 def traverse_dir(path, scanned, permission_issue, conditions):
