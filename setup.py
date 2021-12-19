@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='large-file-finder',
     description='An awesome cli application to find large files in file system',
-    version='1.0.0',
+    version='1.0.1',
     author='Rahul Baruri',
     author_email='rahulbaruri1@gmail.com',
     url='http://pypi.python.org/pypi/large-file-finder/',
@@ -14,7 +14,6 @@ setup(
         ],
     },
     packages=find_packages(exclude=[".gitignore","screenshot.png","venv"]),
-    package_dir={'app': ''},
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     keywords=['large', 'file', 'finder', 'big file', 'filesize', 'monitor','detect huge file'],
